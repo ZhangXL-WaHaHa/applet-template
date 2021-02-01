@@ -1,0 +1,15 @@
+/**app.wxss**/
+/* 页面图片使用 widthFit 闪烁的问题 */
+image {
+    height: auto;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 200rpx 0;
+    box-sizing: border-box;
+}
