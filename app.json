@@ -5,9 +5,9 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#36CFC9",
+    "navigationBarBackgroundColor": "#FFFFFF",
     "navigationBarTitleText": "项目模板",
-    "navigationBarTextStyle": "white"
+    "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json",
   "usingComponents": {
@@ -24,7 +24,6 @@
   "tabBar": {
     "color": "#333333",
     "selectedColor": "#FF6145",
-    "borderStyle": "white",
     "backgroundColor": "#fff",
     "list": [
       {

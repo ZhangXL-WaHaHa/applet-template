@@ -1,6 +1,4 @@
 {
-  "enablePullDownRefresh": false,
   "navigationBarTitleText": "我的",
-  "navigationBarTextStyle": "white",
   "usingComponents": {}
 }
