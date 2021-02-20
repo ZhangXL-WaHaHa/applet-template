@@ -15,6 +15,7 @@ const env = {
   },
 
   prod: {
+    domain: ''
   },
 
   /**
